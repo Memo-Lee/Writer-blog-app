@@ -1,0 +1,12 @@
+C:\Users\Acer\Projects\WriteApplication\WriterCoreLayer\bin\Debug\net6.0\WriterCoreLayer.deps.json
+C:\Users\Acer\Projects\WriteApplication\WriterCoreLayer\bin\Debug\net6.0\WriterCoreLayer.dll
+C:\Users\Acer\Projects\WriteApplication\WriterCoreLayer\bin\Debug\net6.0\WriterCoreLayer.pdb
+C:\Users\Acer\Projects\WriteApplication\WriterCoreLayer\obj\Debug\net6.0\WriterCoreLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Projects\WriteApplication\WriterCoreLayer\obj\Debug\net6.0\WriterCoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Projects\WriteApplication\WriterCoreLayer\obj\Debug\net6.0\WriterCoreLayer.AssemblyInfoInputs.cache
+C:\Users\Acer\Projects\WriteApplication\WriterCoreLayer\obj\Debug\net6.0\WriterCoreLayer.AssemblyInfo.cs
+C:\Users\Acer\Projects\WriteApplication\WriterCoreLayer\obj\Debug\net6.0\WriterCoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Projects\WriteApplication\WriterCoreLayer\obj\Debug\net6.0\WriterCoreLayer.dll
+C:\Users\Acer\Projects\WriteApplication\WriterCoreLayer\obj\Debug\net6.0\refint\WriterCoreLayer.dll
+C:\Users\Acer\Projects\WriteApplication\WriterCoreLayer\obj\Debug\net6.0\WriterCoreLayer.pdb
+C:\Users\Acer\Projects\WriteApplication\WriterCoreLayer\obj\Debug\net6.0\ref\WriterCoreLayer.dll

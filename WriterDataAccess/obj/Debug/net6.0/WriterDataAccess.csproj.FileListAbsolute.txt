@@ -1,0 +1,17 @@
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\bin\Debug\net6.0\WriterDataAccess.deps.json
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\bin\Debug\net6.0\WriterDataAccess.runtimeconfig.json
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\bin\Debug\net6.0\WriterDataAccess.dll
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\bin\Debug\net6.0\WriterDataAccess.pdb
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\bin\Debug\net6.0\WriterEntityLayer.dll
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\bin\Debug\net6.0\WriterEntityLayer.pdb
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\obj\Debug\net6.0\WriterDataAccess.csproj.AssemblyReference.cache
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\obj\Debug\net6.0\WriterDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\obj\Debug\net6.0\WriterDataAccess.AssemblyInfoInputs.cache
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\obj\Debug\net6.0\WriterDataAccess.AssemblyInfo.cs
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\obj\Debug\net6.0\WriterDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\obj\Debug\net6.0\WriterDataAccess.csproj.CopyComplete
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\obj\Debug\net6.0\WriterDataAccess.dll
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\obj\Debug\net6.0\refint\WriterDataAccess.dll
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\obj\Debug\net6.0\WriterDataAccess.pdb
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\obj\Debug\net6.0\WriterDataAccess.genruntimeconfig.cache
+C:\Users\Acer\Projects\WriteApplication\WriterDataAccess\obj\Debug\net6.0\ref\WriterDataAccess.dll
