@@ -11,5 +11,6 @@ namespace WriterDataAccess.Concrete.EntityFramework
 {
     public class EfCoreCategoryRepository : GenericRepository<Category>, ICategory
     {
+
     }
 }

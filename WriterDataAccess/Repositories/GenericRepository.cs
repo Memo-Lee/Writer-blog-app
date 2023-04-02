@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using WriterDataAccess.Abstract;
@@ -17,13 +18,17 @@ namespace WriterDataAccess.Repositories
             c.SaveChanges();
         }
 
-        public List<T> GetAllList()
+        public List<T> GetListAll()
         {
             using var c = new WriterContext();
             return c.Set<T>().ToList();
         }
-
-        public T GetById(int id)
+		public List<T> GetListAll(Expression<Func<T, bool>> filter)
+		{
+            using var c = new WriterContext();
+            return c.Set<T>().Where(filter).ToList();
+		}
+		public T GetById(int id)
         {
             using var c = new WriterContext();
             return c.Set<T>().Find(id);
@@ -42,5 +47,7 @@ namespace WriterDataAccess.Repositories
             c.Update(TItem);
             c.SaveChanges();
         }
-    }
+
+		
+	}
 }

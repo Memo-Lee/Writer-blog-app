@@ -9,6 +9,6 @@ namespace WriterDataAccess.Abstract
 {
     public interface IBlog : IGeneric<Blog>
     {
-
+        List<Blog> GetListWithCategory();
     }
 }

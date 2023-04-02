@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WriterBusinessLayer", "Writ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WriterApplication", "WriterApplication\WriterApplication.csproj", "{8255091F-BAFC-4620-866C-FAACE43CAB43}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WriterAPI", "WriterAPI\WriterAPI.csproj", "{2A09CE8C-4387-4454-B09B-FEC23D0CF23C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8255091F-BAFC-4620-866C-FAACE43CAB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8255091F-BAFC-4620-866C-FAACE43CAB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8255091F-BAFC-4620-866C-FAACE43CAB43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A09CE8C-4387-4454-B09B-FEC23D0CF23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A09CE8C-4387-4454-B09B-FEC23D0CF23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A09CE8C-4387-4454-B09B-FEC23D0CF23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A09CE8C-4387-4454-B09B-FEC23D0CF23C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

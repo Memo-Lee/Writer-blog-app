@@ -1,0 +1,24 @@
+﻿@using WriteEntity.Concrete
+@model List<Category>
+
+@{
+    Layout = null;
+}
+<a href="~/lib/bootstrap/dist/css/bootstrap.min.css.map">~/lib/bootstrap/dist/css/bootstrap.min.css.map</a>
+<a href="~/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map">~/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map</a>
+
+<h1 class="bg-success">Helloooooo</h1>
+
+    @foreach(var item in Model)
+    {
+    <ul class="bg-success">
+        <li>@item.CategoryID</li>
+        <li>@item.CategoryName</li>
+        <li>@item.CategoryStatus</li>
+     </ul>
+    }
+
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+

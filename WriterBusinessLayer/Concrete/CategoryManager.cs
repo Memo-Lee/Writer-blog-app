@@ -5,42 +5,42 @@ using System.Text;
 using System.Threading.Tasks;
 using WriteEntity.Concrete;
 using WriterBusinessLayer.Abstract;
+using WriterDataAccess.Abstract;
 using WriterDataAccess.Concrete.EntityFramework;
 
 namespace WriterBusinessLayer.Concrete
 {
     public class CategoryManager : ICategoryService
     {
-        EfCoreCategoryRepository efCoreCategoryRepository;
-
-        public CategoryManager()
+        readonly ICategory _category;
+        public CategoryManager(ICategory category)
         {
-            efCoreCategoryRepository = new EfCoreCategoryRepository();
+            _category = category;
         }
 
         public void CategoryAdd(Category category)
         {
-            efCoreCategoryRepository.Insert(category);
+            _category.Insert(category);
         }
 
         public void CategoryDelete(Category category)
         {
-            efCoreCategoryRepository.Delete(category);
+            _category.Delete(category);
         }
 
-        public List<Category> CategoryListAll()
+        public List<Category> GetList()
         {
-            return efCoreCategoryRepository.GetAllList();
+            return _category.GetListAll();
         }
 
         public void CategoryUpdate(Category category)
         {
-            efCoreCategoryRepository.Update(category);
+            _category.Update(category);
         }
 
         public Category GetById(int id)
         {
-            return efCoreCategoryRepository.GetById(id);
+            return _category.GetById(id);
         }
     }
 }
